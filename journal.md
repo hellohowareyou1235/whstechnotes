@@ -6,5 +6,5 @@ today i created my first github repository
 
 my view on computer science has not changed
 
-# october 14, 2025
+# october 7-9, 2025
 make a flappy game hour of code
