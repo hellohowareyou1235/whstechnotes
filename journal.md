@@ -11,3 +11,10 @@ make a flappy game hour of code
 
 # october 6, 2025
 artifical intelligence should be banned but phones should not becuase of emergencies
+
+# october 20, 2025
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin |  2     |91a      |
+| Hardeep  |  3     |  61f    |
+| Marla    |1       |35b      |
