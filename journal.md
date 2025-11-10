@@ -18,3 +18,6 @@ artifical intelligence should be banned but phones should not becuase of emergen
 | Franklin |  2     |91a      |
 | Hardeep  |  3     |  61f    |
 | Marla    |1       |35b      |
+
+# november 10, 2025
+i am excited for thanksgiving break
