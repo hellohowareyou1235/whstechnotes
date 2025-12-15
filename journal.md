@@ -21,3 +21,6 @@ artifical intelligence should be banned but phones should not becuase of emergen
 
 # november 10, 2025
 i am excited for thanksgiving break
+
+# december 15, 2025
+my plans for winter break is to play video games
