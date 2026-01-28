@@ -24,3 +24,7 @@ i am excited for thanksgiving break
 
 # december 15, 2025
 my plans for winter break is to play video games
+
+# january 6, 2026
+Over winter break I used technology in many ways. For example one way I used technology was watching movies and tv shows.
+Another way I used technology over the break is that I played video games on my PlayStation,Xbox,and my Nintendo Switch.
