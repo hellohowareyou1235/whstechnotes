@@ -31,4 +31,4 @@ Another way I used technology over the break is that I played video games on my 
 
 # january 12, 2026
 Autcraft was created as an online safe space for autistic children and their families.
-The problem autcraft was solving was bullying harassment and exclusionn for autistic children and their families. Autcraft uses clear rules active moderation and a strong community culture to allow players to be themselves online and feel comfortable. If moderators and developers ignore safety and inclusion it will lead to more bullying and exclusion. Moderators and developers choices can affect the user expierience by adding a reporting system establishing easy and clear rules.
+The problem Autcraft was solving was bullying harassment and exclusion for autistic children and their families. Autcraft uses clear rules active moderation and a strong community culture to allow players to be themselves online and feel comfortable. If moderators and developers ignore safety and inclusion it will lead to more bullying and exclusion. Moderators and developers choices can affect the user expierience by adding a reporting system establishing easy and clear rules.
